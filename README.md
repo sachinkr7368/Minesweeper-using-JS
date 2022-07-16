@@ -6,6 +6,7 @@ In this  I build Minesweeper with using
 ## JavaScript
 ## HTML
 ## CSS. 
+#### [Link to View my work](https://Sachin-minesweeper.netlify.app)
 
 This walkthrough was such a fun one to make as I really enjoyed explaining recursion with the help of a south-park-esque cat.
 
